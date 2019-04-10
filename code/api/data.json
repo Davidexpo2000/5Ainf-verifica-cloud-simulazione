@@ -7,17 +7,17 @@
      "buttonurl":"moodle"
     
        }
-       ,{
+    {
         "imgurl":"img/github.png",
         "title":"GitHub",
               "desc":"Pagina con i progetti della scuola, sul sito ufficiale di github.com.",
         "buttonurl":"Github"   
-       },
+       }
     ]
-},
+}
 {
     "imgurl":"img/cisco.png",
     "title":"CISCO Sim Desktop",
           "desc":"simlaptop/Index.html",
     "buttonurl":"CISCO Sim Desktop "   
-   },
+   }
